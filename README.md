@@ -1,3 +1,11 @@
+Ingame scripts are embedded into the save file, making updates very manual and involved.
+
+Intellisense is difficult to set up.
+
+Scripting is basically not supported by SpaceEngineers.
+
+-----
+
 Here are the steps to set up Visual Studio Code for Space Engineers ingame
 script development.
 
